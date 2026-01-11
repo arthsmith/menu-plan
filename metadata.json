@@ -1,0 +1,5 @@
+{
+  "name": "FamilyMealPlan",
+  "description": "A simple, mobile-friendly family menu planner with shopping list generation.",
+  "requestFramePermissions": []
+}
